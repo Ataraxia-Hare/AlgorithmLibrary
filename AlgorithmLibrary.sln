@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmLibrary", "AlgorithmLibrary\AlgorithmLibrary.csproj", "{F12B0066-45C7-47CA-BA4C-D391D5DF4335}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmLibrary", "src\AlgorithmLibrary\AlgorithmLibrary.csproj", "{F12B0066-45C7-47CA-BA4C-D391D5DF4335}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmLibrary.Problems", "Problems\AlgorithmLibrary.Problems\AlgorithmLibrary.Problems.csproj", "{34ACE95B-3E7B-4B43-8B98-2BF0FB039F95}"
 EndProject

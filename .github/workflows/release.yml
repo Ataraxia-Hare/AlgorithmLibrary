@@ -30,7 +30,7 @@ jobs:
                 run: |
                     VERSION="${GITHUB_REF_NAME#v}"
 
-                    dotnet pack AlgorithmLibrary/AlgorithmLibrary.csproj \
+                    dotnet pack src/AlgorithmLibrary/AlgorithmLibrary.csproj \
                       -c Release \
                       -p:PackageVersion="$VERSION" \
                       -o ./artifacts
