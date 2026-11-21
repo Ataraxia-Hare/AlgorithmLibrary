@@ -1,4 +1,4 @@
-﻿namespace AlgorithmLibrary.Problems;
+namespace AlgorithmLibrary.Problems;
 
 internal static class Program
 {
@@ -13,7 +13,7 @@ internal static class Program
         switch (args[0])
         {
             default:
-                Console.WriteLine("Problem not found.");
+                Console.WriteLine($"Problem not found: {args[0]}");
                 break;
         }
     }
