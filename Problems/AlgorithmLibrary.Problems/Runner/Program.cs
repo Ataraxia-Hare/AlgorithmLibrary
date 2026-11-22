@@ -12,6 +12,9 @@ internal static class Program
 
         switch (args[0])
         {
+            case "ALP-BFS-0001":
+                new ALP_BFS_0001_SlidingPuzzle().Run();
+                break;
             default:
                 Console.WriteLine($"Problem not found: {args[0]}");
                 break;
